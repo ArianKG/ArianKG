@@ -1,4 +1,4 @@
-Hello, I am ArianKG, a programmer.
+Hello. I am ArianKG, a programmer.
 # Currently working on
 Currently working on **CLXLauncher**: A cracked Minecraft launcher written in C++
 # This repository(s) will be deleted
