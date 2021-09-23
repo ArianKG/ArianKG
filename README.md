@@ -12,4 +12,4 @@ This repository(s) will be deleted later:
 # ArianKG's Website
 ArianKG's website (KGIO): https://ariankg.github.io
 # Discord Server
-Discord Server: https://discord.gg/v7aUWjzc6T
+Discord server: https://discord.gg/v7aUWjzc6T
